@@ -1,14 +1,14 @@
 # G'day 👋🌏
 
 ## About Me
-  - 👨‍💻 Software consultant based in Brisbane, Australia (originally from Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿)
+  - 👨‍💻 Software consultant based in Brisbane, Australia
   - 💻 Passionate about Azure, C#, TypeScript, React, SQL, and AI
   - 🚀 Always exploring new technologies and best practices
 
 ## Featured Projects
-- [AzureEventGridSimulator]([https://github.com/pm7y/AzureLabs](https://github.com/pm7y/AzureEventGridSimulator)): Mimics the functionality of Azure Event Grid.
-- [ReactMSALExample]([https://github.com/pm7y/ReactTypeScriptStarter](https://github.com/pm7y/ReactMSALExample)): How to integrate MSAL into a React/Typescript app.
-- [DockerExamples]([https://github.com/pm7y/CSharpAlgorithms](https://github.com/pm7y/DockerExamples)): A collection of my examples on using containers with Docker Compose.
+- [AzureEventGridSimulator](https://github.com/pm7y/AzureLabs](https://github.com/pm7y/AzureEventGridSimulator): Mimics the functionality of Azure Event Grid.
+- [ReactMSALExample](https://github.com/pm7y/ReactTypeScriptStarter](https://github.com/pm7y/ReactMSALExample): How to integrate MSAL into a React/Typescript app.
+- [DockerExamples](https://github.com/pm7y/CSharpAlgorithms](https://github.com/pm7y/DockerExamples): A collection of my examples on using containers with Docker Compose.
 
 ## Skills
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
