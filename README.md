@@ -1,9 +1,9 @@
 # G'day 👋🌏
 
 ## About Me
-👨‍💻 Software consultant based in Brisbane, Australia (originally from Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿)
-💻 Passionate about Azure, C#, TypeScript, React, SQL, and AI
-🚀 Always exploring new technologies and best practices
+  - 👨‍💻 Software consultant based in Brisbane, Australia (originally from Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿)
+  - 💻 Passionate about Azure, C#, TypeScript, React, SQL, and AI
+  - 🚀 Always exploring new technologies and best practices
 
 ## Featured Projects
 - [AzureEventGridSimulator]([https://github.com/pm7y/AzureLabs](https://github.com/pm7y/AzureEventGridSimulator)): Mimics the functionality of Azure Event Grid.
