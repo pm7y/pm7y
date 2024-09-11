@@ -10,7 +10,7 @@
 - [ReactMSALExample](https://github.com/pm7y/ReactMSALExample): How to integrate MSAL into a React/Typescript app.
 - [DockerExamples](https://github.com/pm7y/DockerExamples): A collection of my examples on using containers with Docker Compose.
 
-## Skills
+## Tech I Typically Use
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
