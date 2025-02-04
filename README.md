@@ -1,7 +1,8 @@
 # G'day 👋🌏
 
 ## About Me
-  - 👨‍💻 Software consultant based in Brisbane, Australia
+  - 👨‍💻 Software consultant based in Brisbane, Australia.
+  - 💥 Leading high-performing teams to deliver business value and delight users.
   - 💻 Passionate about Azure, C#, TypeScript, React, SQL, and AI
   - 🚀 Always exploring new technologies and best practices
 
